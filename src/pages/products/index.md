@@ -60,7 +60,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: brayn brigoli
     quote: >-
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
@@ -97,10 +97,11 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
-    - description: just a short description
+    - description: Just a short description for the new file the quick brown fox ju.
       items:
         - whatever item
+        - test
       plan: test
-      price: the price
+      price: $10
 ---
 
